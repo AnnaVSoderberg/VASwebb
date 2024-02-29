@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/VASwebb/static/css/main.94ce6628.css",
+    "main.js": "/VASwebb/static/js/main.23c117fa.js",
+    "static/js/453.671b7853.chunk.js": "/VASwebb/static/js/453.671b7853.chunk.js",
+    "static/media/beach-1867271.jpg": "/VASwebb/static/media/beach-1867271.54e5c0b691127d5ec7b7.jpg",
+    "static/media/mail23.jpg": "/VASwebb/static/media/mail23.1abb89553d6ca4ba6a75.jpg",
+    "index.html": "/VASwebb/index.html",
+    "main.94ce6628.css.map": "/VASwebb/static/css/main.94ce6628.css.map",
+    "main.23c117fa.js.map": "/VASwebb/static/js/main.23c117fa.js.map",
+    "453.671b7853.chunk.js.map": "/VASwebb/static/js/453.671b7853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ce6628.css",
+    "static/js/main.23c117fa.js"
+  ]
+}
