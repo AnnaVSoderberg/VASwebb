@@ -1,0 +1,25 @@
+.table-container {
+
+    margin: 0 auto;
+    margin-top:20px;
+    width: 80%; /* Eller den procentandel/bredd du föredrar */
+    overflow-x: auto; /* Lägger till scroll om innehållet är bredare än containern */
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }

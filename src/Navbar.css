@@ -1,0 +1,30 @@
+.navbar{
+    background-color: rgb(49, 49, 49);
+    padding:  10px 20px;
+}
+
+
+.navbar li a{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.navbar ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navbar li{
+    float: left; 
+    /*samma sak går att göra med flexbox */
+}
+
+.navbar li a:hover {
+    background-color:whitesmoke;
+    color : black;
+}
